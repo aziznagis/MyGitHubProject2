@@ -6,6 +6,8 @@ public class SecondGitHubClass {
 
         System.out.println("I am learning GitHub");
 
+        System.out.println("2+2");
+
 
 
     }
